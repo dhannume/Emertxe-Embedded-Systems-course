@@ -1,0 +1,54 @@
+Dec 22 13:10:53 Signup successful
+Dec 22 13:10:53 signed up
+Dec 22 16:58:25 Invalid password entered.Prompted to enter again
+Dec 22 17:21:46 Pre-existing username entered.Prompted to enter again
+Dec 22 17:21:49 Pre-existing username entered.Prompted to enter again
+Dec 22 17:21:51 Pre-existing username entered.Prompted to enter again
+Dec 22 17:22:43 Invalid password entered.Prompted to enter again
+Dec 22 17:45:03 Pre-existing username entered.Prompted to enter again
+Dec 25 15:58:41 Invalid password entered.Prompted to enter again
+Dec 25 15:59:04 Invalid password entered.Prompted to enter again
+Dec 25 15:59:07 Invalid password entered.Prompted to enter again
+Dec 25 15:59:07 Signin Successful
+Dec 25 15:59:07 dhannume signed in
+Dec 25 17:42:29 Signin Successful
+Dec 25 17:42:29 dhannume signed in
+Dec 25 17:43:40 Signin Successful
+Dec 25 17:43:40 dhannu3 signed in
+Dec 25 17:52:43 User starting script
+Dec 25 17:52:45 User prompted with options
+Dec 25 17:52:45 User decided to signup
+Dec 25 17:52:52 Signup successful
+Dec 25 17:52:52 dhannu4 signed up
+Dec 25 17:52:54 User starting script
+Dec 25 17:52:56 User prompted with options
+Dec 25 17:52:56 User chose to signin
+Dec 25 17:53:00 Signin Successful
+Dec 25 17:53:00 dhannu4 signed in
+Dec 25 17:53:05 User decided to take test
+Dec 25 17:58:10 User starting script
+Dec 25 17:58:13 User prompted with options
+Dec 25 17:58:13 User starting script
+Dec 25 17:58:15 User prompted with options
+Dec 25 17:58:15 User chose to signin
+Dec 25 17:58:22 Signin Successful
+Dec 25 17:58:22 dhannu3 signed in
+Dec 25 17:58:26 User decided to take test
+Dec 25 17:59:35 User prompted to continue or exit
+Dec 25 17:59:37 User decided to exit
+Dec 25 18:19:24 User starting script
+Dec 25 18:19:25 User prompted with options
+Dec 25 18:19:25 User chose to signin
+Dec 25 18:19:29 Invalid password entered.Prompted to enter again
+Dec 25 18:19:31 Invalid password entered.Prompted to enter again
+Dec 25 18:19:36 Signin Successful
+Dec 25 18:19:36 dhannume signed in
+Dec 26 10:40:39 User starting script
+Dec 26 10:40:40 User prompted with options
+Dec 26 10:40:40 User chose to signin
+Dec 26 10:40:48 Signin Successful
+Dec 26 10:40:48 dhannume signed in
+Dec 26 10:40:50 User decided to take test
+Dec 26 10:41:47 Test completed by the user
+Dec 26 10:41:59 User prompted to continue or exit
+Dec 26 10:42:01 User decided to exit
